@@ -1,2 +1,4 @@
 # projeto-koru-front
-Projeto Frontend Koru
+Projeto Koru
+
+Texto
